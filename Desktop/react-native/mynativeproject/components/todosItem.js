@@ -22,7 +22,6 @@ const styles = StyleSheet.create({
     borderStyle: "dashed",
     borderRadius: 10,
     flexDirection: 'row',
-    gap: 8,
-
+    gap: 9,
   },
 });
